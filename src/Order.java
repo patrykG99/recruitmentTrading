@@ -71,6 +71,7 @@ class Calculations{
 
             }
         }
+        showPrices();
     }
     public void showPrices(){
         int buy = 0;
